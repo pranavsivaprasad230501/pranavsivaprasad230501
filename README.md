@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Pranav 👋
 
-<!--
-**pranavsivaprasad230501/pranavsivaprasad230501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Platform Engineer | DevOps Engineer
 
-Here are some ideas to get you started:
+I work on cloud infrastructure, Kubernetes, automation, monitoring, and platform engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+* Kubernetes
+* Docker
+* Terraform
+* Ansible
+* AWS
+* Azure
+* GCP
+* Linux
+* Python
+* Prometheus
+* Grafana
+* Apache Airflow
+* Apache Superset
+
+### Current Focus
+
+* Kubernetes Administration
+* Infrastructure as Code
+* Cloud Automation
+* Platform Engineering
+* Data Structures & Algorithms
+
+### Featured Projects
+
+#### Multi-Cloud Foundation
+
+Infrastructure provisioning across AWS, Azure, GCP, and IBM Cloud using Terraform and Ansible.
+
+#### Monitoring Stack
+
+Prometheus + Grafana based monitoring and observability platform.
+
+#### Kubernetes Automation
+
+Automated Kubernetes cluster deployment and configuration using kubeadm and Ansible.
+
+### Coding Practice
+
+* LeetCode problem solving
+* Arrays
+* Hashing
+* Trees
+* Graphs
+* Dynamic Programming
+
+### Connect
+
+* LinkedIn: Add your LinkedIn URL
+* LeetCode: Add your LeetCode profile URL
