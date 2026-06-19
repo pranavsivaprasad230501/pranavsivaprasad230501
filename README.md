@@ -54,4 +54,4 @@ Automated Kubernetes cluster deployment and configuration using kubeadm and Ansi
 ### Connect
 
 * LinkedIn: (https://www.linkedin.com/in/pranav230501/)
-* LeetCode: https://leetcode.com/progress/
+* LeetCode: (https://leetcode.com/u/Pranav_Sivaprasad/)
